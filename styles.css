@@ -158,7 +158,7 @@ body {
     color: var(--cor-de-fundo);
 }
 
-@media screen and (max-width: 768px) {
+@media (max-width: 1200px) {
     .container {
         display: block;
         background-image: none;
@@ -178,7 +178,7 @@ body {
     }
 
     .secundaria__imagem {
-        width: 50vw;
+        width: 20vw;
     }
 
     .dispositivos__lista {
